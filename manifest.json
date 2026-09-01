@@ -1,4 +1,5 @@
 {
+  "id": "void-blast-2029",
   "name": "Void Blast - Pharaonic Elite",
   "short_name": "VoidBlast",
   "description": "لعبة الفويد بلاست الفرعونية الملكية",
@@ -8,6 +9,12 @@
   "theme_color": "#ffd700",
   "orientation": "portrait",
   "icons": [
+    {
+      "src": "shawky11223344.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
     {
       "src": "shawky11223344.jpg",
       "sizes": "512x512",
