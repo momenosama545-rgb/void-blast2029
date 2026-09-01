@@ -1,0 +1,18 @@
+{
+  "name": "Void Blast - Pharaonic Elite",
+  "short_name": "VoidBlast",
+  "description": "لعبة الفويد بلاست الفرعونية الملكية",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0803",
+  "theme_color": "#ffd700",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "shawky11223344.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
